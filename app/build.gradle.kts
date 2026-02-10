@@ -9,7 +9,8 @@ android {
 
     defaultConfig {
         applicationId = "com.example.tcccontroleparental"
-        minSdk = 25
+        minSdk = 26
+        //noinspection OldTargetApi
         targetSdk = 35
         versionCode = 1
         versionName = "1.0"
